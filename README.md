@@ -1,3 +1,4 @@
 # FirstProject
-This is Sample Project
+This is a Sample Project
+<br/>
 Author-Rahul
