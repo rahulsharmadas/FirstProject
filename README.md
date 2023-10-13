@@ -1,4 +1,4 @@
 # FirstProject
 This is a Sample Project
 <br/>
-Author-Rahul
+Author-Rahul Sharma
